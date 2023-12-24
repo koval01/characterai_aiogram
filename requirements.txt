@@ -5,3 +5,4 @@ aiohttp[speedups]
 
 # Other packages
 python-dotenv
+characterai
