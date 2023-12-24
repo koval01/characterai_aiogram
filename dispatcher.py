@@ -16,5 +16,3 @@ dp = Dispatcher(bot)
 
 # activate filters
 dp.filters_factory.bind(IsOwnerFilter)
-dp.filters_factory.bind(IsAdminFilter)
-dp.filters_factory.bind(MemberCanRestrictFilter)
